@@ -1,0 +1,26 @@
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file lists the mappings of IP address to host names. Each line should
+# have one entry. The IP address should be placed in first column followed by
+# the corresponding host name. The IP address and the host name should be
+# separated by at least one space.
+#
+
+
+0.0.0.1  mssplus.mcafee.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.0.0.1	mssplus.mcafee.com
